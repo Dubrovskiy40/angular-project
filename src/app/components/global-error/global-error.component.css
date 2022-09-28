@@ -1,0 +1,18 @@
+.error {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: red;
+  color: #fff;
+  padding: 15px;
+}
+.error__btn {
+  position: absolute;
+  top: 12px;
+  right: 5px;
+  color: #000;
+  background-color: #fff;
+}
+
+/*# sourceMappingURL=global-error.component.css.map */
